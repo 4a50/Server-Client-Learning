@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedClass", "SharedClass\SharedClass.csproj", "{B5FF0787-BED8-470B-B54C-1C5CC4C5A473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClient", "SimpleClient\SimpleClient.csproj", "{83ED035F-4B0A-4E40-BE9B-5F9ED932708F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleClient", "SimpleClient\SimpleClient.csproj", "{83ED035F-4B0A-4E40-BE9B-5F9ED932708F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServer", "SimpleServer\SimpleServer.csproj", "{D280DCDE-18D2-49BD-B1B7-8D049F6088CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleServer", "SimpleServer\SimpleServer.csproj", "{D280DCDE-18D2-49BD-B1B7-8D049F6088CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

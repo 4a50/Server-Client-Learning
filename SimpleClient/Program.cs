@@ -1,4 +1,4 @@
-﻿// A C# program for Client 
+﻿// Simple Client
 using System;
 using System.Net;
 using System.Net.Sockets;
